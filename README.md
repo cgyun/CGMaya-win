@@ -1,0 +1,2 @@
+# CGMaya-win
+CGMaya4
